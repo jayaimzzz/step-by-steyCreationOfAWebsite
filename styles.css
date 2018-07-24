@@ -1,0 +1,12 @@
+:root {
+    --pageBackground: rgb(255, 252, 212);
+}
+body {
+    background-color: var(--pageBackground);
+}
+#mainWrapper {
+    background-color: var(--pageBackground);
+    width: 1000px;
+    margin: auto;
+    float: left;
+}
